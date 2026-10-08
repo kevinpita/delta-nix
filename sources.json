@@ -1,0 +1,17 @@
+{
+  "version": "0.19.0",
+  "platforms": {
+    "x86_64-linux": {
+      "url": "https://releases.delta.dev/releases/stable/0.19.0/delta-linux-x86_64.tar.gz",
+      "hash": "sha256-4sMpGQkUsXDmros7pAkcTO2QogijYQXvZInBYi3tRnA="
+    },
+    "aarch64-linux": {
+      "url": "https://releases.delta.dev/releases/stable/0.19.0/delta-linux-aarch64.tar.gz",
+      "hash": "sha256-ezx29zM2ubex61qpI57Sz5to75FJHgkRVgwXpT+aOTs="
+    },
+    "aarch64-darwin": {
+      "url": "https://releases.delta.dev/releases/stable/0.19.0/macos/aarch64/Delta.app.zip",
+      "hash": "sha256-dXWkKm4u6CKGAK7rpkIrxPzGJRlaTV5Y8lY3PhYRL4g="
+    }
+  }
+}
