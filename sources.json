@@ -1,17 +1,17 @@
 {
-  "version": "0.27.2",
+  "version": "0.28.0",
   "platforms": {
     "x86_64-linux": {
-      "url": "https://releases.delta.dev/releases/stable/0.27.2/delta-linux-x86_64.tar.gz",
-      "hash": "sha256-s8/5ZZvnXUnWLE7ATzlFMS8z3RDpboCr2BywH/Iss9w="
+      "url": "https://releases.delta.dev/releases/stable/0.28.0/delta-linux-x86_64.tar.gz",
+      "hash": "sha256-LryJftc5QdosIIaMnuX/PDcqXe3GHyOSbYfX0ZuhCBM="
     },
     "aarch64-linux": {
-      "url": "https://releases.delta.dev/releases/stable/0.27.2/delta-linux-aarch64.tar.gz",
-      "hash": "sha256-o082eOnzITs7FryWEMXnMeDcXvuYXC7kuDKyDTBbs30="
+      "url": "https://releases.delta.dev/releases/stable/0.28.0/delta-linux-aarch64.tar.gz",
+      "hash": "sha256-2b/qGtLEXXTDPLIfb6ajI0kCukVxs2iODj1Y9UaKPkk="
     },
     "aarch64-darwin": {
-      "url": "https://releases.delta.dev/releases/stable/0.27.2/macos/aarch64/Delta.app.zip",
-      "hash": "sha256-+odCxdejh+p7E6HOHtt1BmVU9FgiHmo+hJs71NedTu4="
+      "url": "https://releases.delta.dev/releases/stable/0.28.0/macos/aarch64/Delta.app.zip",
+      "hash": "sha256-3QoAfBkRSabR4gnxKu+PzKOf/LG1h76ICuZqPOQ5BuI="
     }
   }
 }
